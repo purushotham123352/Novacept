@@ -41,7 +41,7 @@ namespace NovaceptProject.Repositories
         // Get Menu Item  Details by Menu Id        
         public List<Menu> GetMenu(int menuId)
         {
-            List<Menu> menu = context.Menu.FromSqlRaw("sp_GetMenuByMenuId {0}", menuId).ToList();
+            //List<Menu> menu = context.Menu.FromSqlRaw("sp_GetMenuByMenuId {0}", menuId).ToList();
             return menu;
         }
 
