@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Purushottam\\OneDrive\\Desktop\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem.csproj": {}
+    "C:\\Users\\Purushottam\\OneDrive\\Desktop\\GitFolder\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Purushottam\\OneDrive\\Desktop\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem.csproj": {
+    "C:\\Users\\Purushottam\\OneDrive\\Desktop\\GitFolder\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Purushottam\\OneDrive\\Desktop\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Purushottam\\OneDrive\\Desktop\\GitFolder\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem.csproj",
         "projectName": "OnlineFoodOrderSystem",
-        "projectPath": "C:\\Users\\Purushottam\\OneDrive\\Desktop\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem.csproj",
+        "projectPath": "C:\\Users\\Purushottam\\OneDrive\\Desktop\\GitFolder\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem.csproj",
         "packagesPath": "C:\\Users\\Purushottam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Purushottam\\OneDrive\\Desktop\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem\\obj\\",
+        "outputPath": "C:\\Users\\Purushottam\\OneDrive\\Desktop\\GitFolder\\OnlineFoodOrderSystem\\OnlineFoodOrderSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Purushottam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
